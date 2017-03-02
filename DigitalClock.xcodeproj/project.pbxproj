@@ -13,6 +13,7 @@
 		E41BB65A1E43CB9400B94BC5 /* DigitalClock.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E41BB6581E43CB9400B94BC5 /* DigitalClock.xcdatamodeld */; };
 		E41BB65C1E43CB9400B94BC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E41BB65B1E43CB9400B94BC5 /* Assets.xcassets */; };
 		E41BB65F1E43CB9400B94BC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E41BB65D1E43CB9400B94BC5 /* LaunchScreen.storyboard */; };
+		E41BB6671E43CE1F00B94BC5 /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E41BB6661E43CE1F00B94BC5 /* digital-7.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E41BB65B1E43CB9400B94BC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E41BB65E1E43CB9400B94BC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E41BB6601E43CB9400B94BC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E41BB6661E43CE1F00B94BC5 /* digital-7.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "digital-7.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E41BB6511E43CB9400B94BC5 /* AppDelegate.swift */,
 				E41BB6531E43CB9400B94BC5 /* ViewController.swift */,
 				E41BB6551E43CB9400B94BC5 /* Main.storyboard */,
+				E41BB6661E43CE1F00B94BC5 /* digital-7.ttf */,
 				E41BB65B1E43CB9400B94BC5 /* Assets.xcassets */,
 				E41BB65D1E43CB9400B94BC5 /* LaunchScreen.storyboard */,
 				E41BB6601E43CB9400B94BC5 /* Info.plist */,
@@ -130,6 +133,7 @@
 				E41BB65F1E43CB9400B94BC5 /* LaunchScreen.storyboard in Resources */,
 				E41BB65C1E43CB9400B94BC5 /* Assets.xcassets in Resources */,
 				E41BB6571E43CB9400B94BC5 /* Main.storyboard in Resources */,
+				E41BB6671E43CE1F00B94BC5 /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
